@@ -1,0 +1,7 @@
+.arch__arrow-margin, .arch__arrow {
+    margin-right: var(--margin-8);
+    border-radius: 4px;
+    padding: 14px;
+    background: var(--arrow-bg-color);
+  }
+  

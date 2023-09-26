@@ -1,0 +1,39 @@
+.arch__rooms {
+  overflow: hidden;
+}
+
+.arch__rooms-img {
+  margin-left: var(--margin-40);
+}
+
+.arch__rooms-heading-container {
+  padding: 80px 0 40px 0 !important;
+}
+
+.arch__rooms-imgs {
+  padding: 0px 0 80px 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 0.5fr;
+  column-gap: 25px;
+  width: 1240px;
+  margin: auto;
+}
+
+@media screen and (max-width: 535px) {
+  .arch__rooms-heading {
+    font-size: var(--font-size-40) !important;
+    margin-bottom: var(--margin-30);
+  }
+  .arch__rooms-heading-container {
+    padding: 48px 0 32px 0 !important;
+  }
+  .arch__rooms-imgs {
+    display: flex;
+    max-width: var(--phone-screen);
+    margin: 0px;
+    column-gap: 0;
+  }
+  .arch__rooms-img {
+    margin-left: var(--margin-15);
+  }
+}

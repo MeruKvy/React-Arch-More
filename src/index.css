@@ -1,0 +1,59 @@
+:root {
+  --color-primray: #fd665e;
+  --color-secondary: #2c2c2c;
+
+  --font-primary: Playfair Display, Sans;
+  --font-secondary: Inter;
+
+  --btn-small-padding: 15px 24px;
+  --btn-primary-padding: 15px 32px;
+  --btn-radius: 4px;
+
+  --font-size-14: 14px;
+  --font-size-16: 16px;
+  --font-size-24: 24px;
+  --font-size-36: 36px;
+  --font-size-40: 40px;
+  --font-size-48: 48px;
+  --font-size-64: 64px;
+  --font-size-96: 96px;
+
+  --font-weight-400: 400;
+  --font-weight-500: 500;
+  --font-weight-700: 700;
+  --font-weight-800: 800;
+
+  --line-height-100: 100%;
+  --line-height-110: 110%;
+  --line-height-124: 124%;
+  --line-height-130: 130%;
+  --line-height-140: 140%;
+  --line-height-160: 160%;
+
+  --margin-5: 5px;
+  --margin-8: 8px;
+  --margin-10: 10px;
+  --margin-15: 15px;
+  --margin-20: 20px;
+  --margin-25: 25px;
+  --margin-30: 30px;
+  --margin-40: 40px;
+  --margin-48: 48px;
+  --margin-50: 50px;
+  --margin-60: 60px;
+  --margin-65: 65px;
+
+  --padding-10: 10px;
+  --padding-15: 15px;
+  --padding-20: 20px;
+  --padding-25: 25px;
+  --padding-30: 30px;
+  --padding-40: 40px;
+  --padding-48: 48px;
+  --padding-50: 50px;
+  --padding-60: 60px;
+  --padding-65: 65px;
+  --padding-80: 80px;
+
+  --phone-screen: 350px;
+}

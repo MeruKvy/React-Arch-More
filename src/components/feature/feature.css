@@ -1,0 +1,35 @@
+.arch__feature-container {
+  max-width: 395px;
+  padding: 40px 0 0 0 !important;
+}
+
+.arch__feature-logo {
+  width: 64px;
+  height: 64px;
+  margin-right: var(--margin-20);
+}
+
+.arch__feature-heading {
+  font-size: var(--font-size-16);
+  font-weight: var(--font-weight-700) !important;
+}
+
+.arch__feature-text {
+  font-size: var(--font-size-16);
+  max-width: 398px;
+}
+
+.arch__feature-container {
+    display: flex;
+    
+}
+
+.arch__consultation-logo-lightHidden, .arch__consultation-logo-lightHidden {
+    display: none;
+}
+
+@media screen and (max-width: 535px) {
+  .arch__feature-container {
+    max-width: var(--phone-screen);
+  }
+}

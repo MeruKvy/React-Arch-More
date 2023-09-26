@@ -1,0 +1,43 @@
+.arch__consultation {
+  flex-direction: column !important;
+ 
+}
+
+.arch__conclusion-heading {
+  margin-top: 50px;
+}
+
+.arch__cons-btn {
+  max-width: 185px;
+  padding: var(--btn-primary-padding);
+}
+
+.arch__cons-btn-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+}
+
+.arch__consultation-info {
+  padding: 0 0 64px 0 !important;
+}
+
+.arch__consultation-benefits {
+  width: 500px;
+}
+
+@media screen and (max-width: 535px) {
+  .arch__consultation-first-feature {
+    padding: 0 !important;
+  }
+  .arch__consultation-info {
+    padding: 0 0 40px 0 !important;
+  }
+  .arch__conclusion-heading  {
+    margin-bottom: 40px;
+  }
+  .arch__consultation-benefits {
+    width: var(--phone-screen)
+  }
+}

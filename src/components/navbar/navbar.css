@@ -1,0 +1,60 @@
+.arch__navbar {
+  padding-top: var(--padding-20) !important;
+  padding-bottom: var(--padding-20) !important;
+}
+
+.march__navbar-main-logo {
+  margin-right: var(--margin-40);
+}
+
+.arch__navbar-link {
+  margin-right: var(--margin-25);
+}
+
+.arch__navbar-link:last-child {
+  margin-right: 25px;
+}
+
+.arch__navbar-search {
+  display: flex;
+  padding: 8px;
+  align-items: center;
+  background: var(--search-color);
+  border-radius: 56px;
+}
+
+.arch__navbar-search,
+.Navbar__sing-in {
+  margin-right: var(--margin-25);
+}
+
+.arch__navbar-sign-up-btn {
+  padding: var(--btn-small-padding);
+}
+
+.toggle-display {
+  display: none;
+}
+
+.navbar-spacer {
+  display: flex;
+  justify-content: space-between;
+  padding: 80px 0;
+  width: 1170px;
+  margin: auto;
+}
+
+@media screen and (max-width: 535px) {
+  .arch__navbar-link,
+  .Navbar__sing-in,
+  .arch__navbar-sign-up-btn {
+    display: none !important;
+  }
+  .toggle-display {
+    display: block;
+  }
+  .navbar-spacer {
+    width: var(--phone-screen);
+  }
+  
+}

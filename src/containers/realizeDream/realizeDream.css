@@ -1,0 +1,40 @@
+.arch__realizeDream {
+  background: var(--realizeDream-bg);
+}
+
+.arch__realizeDream-heading-wrappeer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  width: 700px;
+}
+.arch__realizeDream-heading {
+  width: 500px;
+  text-align: center;
+  font-size: var(--font-size-64) !important;
+  line-height: 100% !important;
+}
+
+.arch__realizeDream-btn {
+  padding: var(--btn-primary-padding);
+}
+
+.arch__realizeDream-btn-wrapper {
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  margin-top: var(--margin-48);
+}
+
+@media screen and (max-width: 535px) {
+  .arch__realizeDream-heading {
+    font-size: var(--font-size-48) !important;
+    max-width: var(--phone-screen) !important;
+  }
+  .arch__realizeDream-btn-wrapper,   .arch__realizeDream-heading-wrappeer {
+    width: var(--phone-screen);
+  }
+  
+
+}
