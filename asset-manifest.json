@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Arch-More/static/css/main.b18f2276.css",
+    "main.js": "/React-Arch-More/static/js/main.0c90e1b4.js",
+    "static/media/consultation-img.png": "/React-Arch-More/static/media/consultation-img.fe0b61bcff9a62ea6c81.png",
+    "static/media/darkHouse.png": "/React-Arch-More/static/media/darkHouse.7ef08e180874b1813087.png",
+    "static/media/houseLight.png": "/React-Arch-More/static/media/houseLight.0bf3b494f7d68da5a592.png",
+    "static/media/headerImg.png": "/React-Arch-More/static/media/headerImg.478cb354bd2436458466.png",
+    "static/media/roomImg2.png": "/React-Arch-More/static/media/roomImg2.12b85681915fbd90d9a0.png",
+    "static/media/roomImg3.png": "/React-Arch-More/static/media/roomImg3.bfe88b7c2e82e41ab935.png",
+    "static/media/roomImg4.png": "/React-Arch-More/static/media/roomImg4.12a6bce493f25d751caf.png",
+    "static/media/roomImg1.png": "/React-Arch-More/static/media/roomImg1.8f791098b362fa99ecf0.png",
+    "static/media/Sun.svg": "/React-Arch-More/static/media/Sun.681607dcda2a01539a9a8a157ae74e6e.svg",
+    "static/media/Moon.svg": "/React-Arch-More/static/media/Moon.0a6a2b75ac51157455302ddcfca385c0.svg",
+    "index.html": "/React-Arch-More/index.html",
+    "main.b18f2276.css.map": "/React-Arch-More/static/css/main.b18f2276.css.map",
+    "main.0c90e1b4.js.map": "/React-Arch-More/static/js/main.0c90e1b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b18f2276.css",
+    "static/js/main.0c90e1b4.js"
+  ]
+}
